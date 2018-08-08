@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTest1", "UnitTest1\UnitTest1.csproj", "{A51316F3-E3E8-4341-B1CC-422F6B463E7D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LotteryKata", "..\LotteryKata\LotteryKata.csproj", "{6D833E87-714A-452C-8CBE-9678431071FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A51316F3-E3E8-4341-B1CC-422F6B463E7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A51316F3-E3E8-4341-B1CC-422F6B463E7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A51316F3-E3E8-4341-B1CC-422F6B463E7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A51316F3-E3E8-4341-B1CC-422F6B463E7D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D833E87-714A-452C-8CBE-9678431071FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D833E87-714A-452C-8CBE-9678431071FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D833E87-714A-452C-8CBE-9678431071FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D833E87-714A-452C-8CBE-9678431071FC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6E838590-F29F-4279-86C8-6189BFA0E00A}
+	EndGlobalSection
+EndGlobal

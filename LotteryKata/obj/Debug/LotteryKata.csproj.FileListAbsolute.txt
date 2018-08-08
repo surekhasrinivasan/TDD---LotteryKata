@@ -1,0 +1,7 @@
+C:\Users\Sreenath\source\repos\LotteryKata\LotteryKata\bin\Debug\LotteryKata.exe.config
+C:\Users\Sreenath\source\repos\LotteryKata\LotteryKata\bin\Debug\LotteryKata.exe
+C:\Users\Sreenath\source\repos\LotteryKata\LotteryKata\bin\Debug\LotteryKata.pdb
+C:\Users\Sreenath\source\repos\LotteryKata\LotteryKata\obj\Debug\LotteryKata.csprojAssemblyReference.cache
+C:\Users\Sreenath\source\repos\LotteryKata\LotteryKata\obj\Debug\LotteryKata.csproj.CoreCompileInputs.cache
+C:\Users\Sreenath\source\repos\LotteryKata\LotteryKata\obj\Debug\LotteryKata.exe
+C:\Users\Sreenath\source\repos\LotteryKata\LotteryKata\obj\Debug\LotteryKata.pdb
